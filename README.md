@@ -1,5 +1,7 @@
-# Socket Server Basico
+# Aplicación de Cola
 
-Un servidor de Websockets usando Node, Express y Socket.io
+**Tickets:** Aplicación de cola con Sockets y Node.js
 
-Temas cubiertos en mi curso de Node de cero a experto
+```
+npm install
+```
